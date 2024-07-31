@@ -20,8 +20,8 @@
 
 <h3 align="center">✨ Developing App ✨</h3>
 <div align="center">
-  <div display="inline-block">
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Appstore-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a><p>The Stamp Card</p>
+  <div>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Appstore-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a><p style="display: inline-block;">The Stamp Card</p>
   </div>
   <br>
   <div>
