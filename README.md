@@ -25,11 +25,6 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>
     <p>The Stamp Card</p>
   </div>
-  <br>
-  <div>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>
-    <p>The Stamp Card</p>
-  </div>
 </div>
 
 <!--
