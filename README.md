@@ -30,8 +30,8 @@
 <h3 align="center">✨ Contact ✨</h3>
 <div align="center">
    <div>
-    <p>The Stamp Card</p>
-    <p>The Stamp Card</p>
+    <p>If you have any questions about the project, please contact</p>
+    <p>jyj16zn@naver.com</p>
   </div>
 </div>
 
