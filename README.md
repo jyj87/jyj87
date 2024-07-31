@@ -23,7 +23,7 @@
    <div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Appstore-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>
-    <p>The Stamp Card</p>
+    <p>	•	The Stamp Card</p>
   </div>
 </div>
 
@@ -31,7 +31,7 @@
 <div align="center">
    <div>
     <p>If you have any questions about the project, please contact</p>
-    <p>jyj16zn@naver.com</p>
+    <p>	•	jyj16zn@naver.com</p>
   </div>
 </div>
 
