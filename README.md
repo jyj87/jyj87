@@ -20,12 +20,12 @@
 
 <h3 align="center">✨ Developing App ✨</h3>
 <div align="center">
-  <div display="flex">
+  <div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Appstore-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a><p>The Stamp Card</p>
   </div>
   <br>
   <div>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>><p>The Stamp Card</p>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a><p>The Stamp Card</p>
   </div>
 </div>
 
