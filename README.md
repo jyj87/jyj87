@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/test-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ReactNative-000000?style=plastic&logo=react&logoColor=61DAFB"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/test-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a>
 
 <!--
