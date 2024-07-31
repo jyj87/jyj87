@@ -32,6 +32,7 @@
    <div>
     <p>If you have any questions about the project, please contact</p>
     <p>	•	jyj16zn@naver.com</p>
+    <p>	•	thestampcardinfo@gmail.com</p>
   </div>
 </div>
 
