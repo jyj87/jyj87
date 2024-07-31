@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there&fontSize=90" />
 </div>
+<br>
+<br>
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/ReactNative-000000?style=plastic&logo=react&logoColor=61DAFB"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-000000?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>
