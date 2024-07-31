@@ -18,6 +18,12 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>
 </div>
 
+<h3 align="center">✨ Developing App ✨</h3>
+<div align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Appstore-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>
+</div>
+
 <!--
 **jyj87/jyj87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
