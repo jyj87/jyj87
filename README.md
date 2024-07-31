@@ -3,6 +3,7 @@
 </div>
 <br>
 <br>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/ReactNative-000000?style=plastic&logo=react&logoColor=61DAFB"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-000000?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>
@@ -11,6 +12,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-000000?style=plastic&logo=firebase&logoColor=DD2C00"/></a>
 </div>
 <br>
+<h3 align="center">✨ Target Market ✨</h3>
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Appstore-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>
