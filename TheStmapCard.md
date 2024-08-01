@@ -1,57 +1,42 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there&fontSize=90" />
-</div>
-<br>
-<br>
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/ReactNative-000000?style=plastic&logo=react&logoColor=61DAFB"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-000000?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-000000?style=plastic&logo=spring&logoColor=6DB33F"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Springboot-000000?style=plastic&logo=springboot&logoColor=6DB33F"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-000000?style=plastic&logo=firebase&logoColor=DD2C00"/></a>
-</div>
-<br>
-<h3 align="center">✨ Target Market ✨</h3>
-<div align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Appstore-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>
-</div>
+TheStampCard プライバシーポリシー
 
-<h3 align="center">✨ Developing App ✨</h3>
-<div align="center">
-   <div>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Appstore-000000?style=plastic&logo=appstore&logoColor=0D96F6"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Googleplay-000000?style=plastic&logo=googleplay&logoColor=414141"/></a>
-    <p>	•	The Stamp Card</p>
-  </div>
-</div>
+1. 概要
+TheStampCardは、本プライバシーポリシーを通じて、お客様から提供される個人情報がどのような目的で、どのように利用されているか、また個人情報保護のためにどのような措置が講じられているかをお知らせいたします。
 
-<h3 align="center">✨ Contact ✨</h3>
-<div align="center">
-   <div>
-    <p>If you have any questions about the project, please contact</p>
-    <p>	•	jyj16zn@naver.com</p>
-    <p>	•	thestampcardinfo@gmail.com</p>
-  </div>
-</div>
+2. 個人情報の収集項目および収集方法
+1) TheStampCardは、以下の個人情報項目を収集・処理します。
+- ログインID、暗号化されたパスワード、メールアドレス、サービス利用履歴、ニックネーム、電話番号
+2) TheStampCardは、以下の方法で個人情報を収集しています。
+- 会員登録、クーポン使用、スタンプ使用
 
+3. 個人情報の収集および利用目的
+TheStampCardは、収集した個人情報を以下の目的のために処理しており、これ以外の目的では利用いたしません。
+- 会員登録意思の確認、会員サービス提供に伴う本人識別と認証、会員資格の維持・管理
+- 管理のための不正利用者のブロック
 
+4. 個人情報の保持および利用期間
+特別な事情がない限り、原則として個人情報の収集または提供を受けた目的が達成された時点（退会時）で、遅滞なく廃棄いたします。会員はいつでも退会ボタンで退会を要請することができ、退会と同時に該当会員の登録情報は削除されます。
 
+5. 個人情報の第三者提供
+TheStampCardは、利用者のID、暗号化されたパスワード、メールアドレスなどの個人情報を、いかなる場合も外部に提供いたしません。
 
+6. 個人情報保護責任者の指定
+TheStampCardは、個人情報処理に関する業務を総括し、責任を持って情報主体の苦情処理を行うため、責任者を指定しています。
+メールアドレス：thestampcardinfo@gmail.com
 
+7. 附則
+本ポリシーは施行日より適用され、ポリシーの変更内容の追加、削除および訂正がある場合には、変更事項の施行7日前からお知らせを通じてお知らせいたします。
 
-<!--
-**jyj87/jyj87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+8. サービス終了
+経営難など予期せぬ困難によりサービスが予告なく終了することがあります。その際、サービス終了に関する事前通知ができないことをご了承ください。
 
-Here are some ideas to get you started:
+TheStampCard 利用規約
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. 会員登録および退会
+1) 利用者は、TheStampCardが定める登録手続きに従って無料で会員登録することができます。
+2) IDとパスワードに関するすべての管理責任は、各会員にあります。登録情報の紛失には十分ご注意ください。
+3) 退会を希望する場合は、特別な事情がない限り、会員本人が直接マイページから退会申請を行う必要があります。
+
+2. サービス利用
+1) サービスの利用は、特別な事情がない限り、年中無休を原則とします。
+2) 利用者は、サイト下部のお問い合わせ欄やマイページを通じて1対1のお問い合わせをすることができます。
